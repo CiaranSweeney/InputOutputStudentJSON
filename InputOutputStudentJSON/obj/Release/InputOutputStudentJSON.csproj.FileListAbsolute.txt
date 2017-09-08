@@ -1,0 +1,7 @@
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\bin\Release\InputOutputStudentJSON.exe.config
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\bin\Release\InputOutputStudentJSON.exe
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\bin\Release\InputOutputStudentJSON.pdb
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\bin\Release\Newtonsoft.Json.dll
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\bin\Release\Newtonsoft.Json.xml
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\obj\Release\InputOutputStudentJSON.exe
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\obj\Release\InputOutputStudentJSON.pdb

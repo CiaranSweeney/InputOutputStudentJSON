@@ -1,0 +1,16 @@
+c:\users\ciara\documents\visual studio 2017\Projects\InputOutputStudentJSON\InputOutputStudentJSON\bin\Debug\InputOutputStudentJSON.exe.config
+c:\users\ciara\documents\visual studio 2017\Projects\InputOutputStudentJSON\InputOutputStudentJSON\bin\Debug\InputOutputStudentJSON.exe
+c:\users\ciara\documents\visual studio 2017\Projects\InputOutputStudentJSON\InputOutputStudentJSON\bin\Debug\InputOutputStudentJSON.pdb
+c:\users\ciara\documents\visual studio 2017\Projects\InputOutputStudentJSON\InputOutputStudentJSON\obj\Debug\InputOutputStudentJSON.csprojResolveAssemblyReference.cache
+c:\users\ciara\documents\visual studio 2017\Projects\InputOutputStudentJSON\InputOutputStudentJSON\obj\Debug\InputOutputStudentJSON.exe
+c:\users\ciara\documents\visual studio 2017\Projects\InputOutputStudentJSON\InputOutputStudentJSON\obj\Debug\InputOutputStudentJSON.pdb
+c:\users\ciara\documents\visual studio 2017\Projects\InputOutputStudentJSON\InputOutputStudentJSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\ciara\documents\visual studio 2017\Projects\InputOutputStudentJSON\InputOutputStudentJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\bin\Debug\InputOutputStudentJSON.exe.config
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\bin\Debug\InputOutputStudentJSON.exe
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\bin\Debug\InputOutputStudentJSON.pdb
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\obj\Debug\InputOutputStudentJSON.csprojResolveAssemblyReference.cache
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\obj\Debug\InputOutputStudentJSON.exe
+C:\Users\ciara\Desktop\Ciaran Sweenys C# Program\InputOutputStudentJSON\InputOutputStudentJSON\obj\Debug\InputOutputStudentJSON.pdb

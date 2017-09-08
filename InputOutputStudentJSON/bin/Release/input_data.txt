@@ -1,0 +1,18 @@
+[ 
+    { "Name": "Person 1", 
+      "Id": "1001", 
+      "Score": "9",
+      "MaxScore": "10"}, 
+    { "Name": "Person 2", 
+      "Id": "1002", 
+      "Score": "25",
+      "MaxScore": "50"}, 
+    { "Name": "Person 3", 
+      "Id": "1003", 
+      "Score": "80",
+      "MaxScore": "100"}, 
+    { "Name": "Person 4", 
+      "Id": "1003", 
+      "Score": "1",
+      "MaxScore": "1"}
+]

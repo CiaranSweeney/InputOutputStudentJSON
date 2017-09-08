@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Person 1",
+    "Id": 1001,
+    "PercentageScore": 90.0
+  },
+  {
+    "Name": "Person 2",
+    "Id": 1002,
+    "PercentageScore": 50.0
+  },
+  {
+    "Name": "Person 3",
+    "Id": 1003,
+    "PercentageScore": 80.0
+  },
+  {
+    "Name": "Person 4",
+    "Id": 1003,
+    "PercentageScore": 100.0
+  },
+  {
+    "average": 80.0,
+    "maxScore": 100.0,
+    "minScore": 50.0
+  }
+]
